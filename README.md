@@ -2,10 +2,9 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://img.freepik.com/free-vector/programmer-working-with-php_52683-22998.jpg?w=740&t=st=1696156830~exp=1696157430~hmac=c633cde2e00b0a578d0c16095ad11e3fb67acb4c25155812aefcb5f9c5c26ce5">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhangickore&label=Profile%20views&color=0e75b6&style=flat" alt="shubhangickore" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhangickore" alt="shubhangickore" /></a> </p>
 
-- 💬 Ask me about **C,c++,java,css,javascript,html,bootstrap**
+- 💬 Ask me about **C,c++,java,python,css,javascript,html,bootstrap**
 
 - 📫 How to reach me **Koreshubhangi291@gmail.com**
 
