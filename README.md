@@ -41,12 +41,3 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhangickore&show_icons=true&locale=en&layout=compact&langs_count=6&hide=php,c" alt="Top Languages" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhangickore&theme=default" alt="GitHub Streak" />
-</p>
