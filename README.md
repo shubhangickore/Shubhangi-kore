@@ -19,9 +19,9 @@
 
 ### 🌐 Connect with Me:
 
-<!-- Add social links here if available -->
+Email: **koreshubhangi291@gmail.com**
+- LinkedIn: [linkedin.com/in/shubhangickore](https://www.linkedin.com/in/shubhangickore)
 
----
 
 ### 💻 Languages and Tools:
 
