@@ -11,7 +11,7 @@
 
 ### 🧠 About Me:
 
-- 🌱 Currently learning **Spring Boot, DSA, and advanced MERN stack**
+- 🌱 Currently learning **React.js,DSA,**
 - 💬 Ask me about **Java, Python, MERN Stack, SQL, HTML, CSS, JavaScript**
 - 📫 How to reach me: **Koreshubhangi291@gmail.com**
 
