@@ -12,7 +12,7 @@
 ### 🧠 About Me:
 
 - 🌱 Currently learning **Springboot, DSA, React.js**
-- 💬 Ask me about **Java, Python, MERN Stack, SQL, HTML, CSS, JavaScript**
+- 💬 Ask me about **Java, Python, MERN Stack, SQL, HYPERTEXT MARKUP LANGUAGEt**
 - 📫 How to reach me: **Koreshubhangi291@gmail.com**
 
 ---
