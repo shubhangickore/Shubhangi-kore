@@ -11,7 +11,7 @@
 
 ### 🧠 About Me:
 
-- 🌱 Currently learning **Springboot, DSA, React.js, javascript**
+- 🌱 Currently learning **Springboot, DSA, React.js, javascript,css**
 - 💬 Ask me about **Java, Python, MERN Stack, SQL, CSS**
 - 📫 How to reach me: **Koreshubhangi291@gmail.com**
 
