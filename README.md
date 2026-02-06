@@ -11,7 +11,7 @@
 
 ### 🧠 About Me:
 
-- 🌱 Currently learning **Springboot, Data Structure and , React.js, JavaScript**
+- 🌱 Currently learning **Springboot, e and , React.js, JavaScript**
 - 💬 Ask me about **Java, Python, MERN Stack, SQL, CSS**
 - 📫 How to reach me: **Koreshubhangi291@gmail.com**
 
