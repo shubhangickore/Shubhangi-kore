@@ -11,7 +11,7 @@
 
 ### 🧠 About Me:
 
-- 🌱 Currently learning **AWS, Cloud Computing, DSA, React.js, JavaScript**
+- 🌱 Currently learning **AWS, Cloud Computing, Javascript, React.js, JavaScript**
 - 💬 Ask me about **Java,Javscript, MERN Stack, SQL **
 - 📫 How to reach me: **Koreshubhangi291@gmail.com**
 
