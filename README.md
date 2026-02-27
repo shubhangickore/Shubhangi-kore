@@ -12,7 +12,7 @@
 ### 🧠 About Me:
 
 - 🌱 Currently learning **AWS, Cloud Computing, DSA, React.js, JavaScript**
-- 💬 Ask me about **Java,Javscript, MERN Stack, SQL, CSS**
+- 💬 Ask me about **Java,Javscript, MERN Stack, SQL **
 - 📫 How to reach me: **Koreshubhangi291@gmail.com**
 
 ---
