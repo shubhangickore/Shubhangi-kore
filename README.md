@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm SHUBHANGI</h1>
-<h3 align="center">An enthusiastic Java developer with a growing passion for full-stack development</h3>
+<h3 align="center">An enthusiastic Java developer with a growing passion for full-stack development and also Learning Cloud Computing</h3>
 
 <img src="https://img.freepik.com/free-vector/programmer-working-with-php_52683-22998.jpg?w=740&t=st=1696156830~exp=1696157430~hmac=c633cde2e00b0a578d0c16095ad11e3fb67acb4c25155812aefcb5f9c5c26ce5" alt="coding" align="center">
 
