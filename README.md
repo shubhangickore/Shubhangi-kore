@@ -12,7 +12,7 @@
 ### 🧠 About Me:
 
 - 🌱 Currently learning **AWS, Cloud Computing, Javascript, React.js, JavaScript**
-- 💬 Ask me about **Java,Javscript, SQL **
+- 💬 Ask me about **Java,Javscript, SQL c++**
 - 📫 How to reach me: **Koreshubhangi291@gmail.com**
 
 ---
