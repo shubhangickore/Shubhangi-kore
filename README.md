@@ -46,7 +46,7 @@
 
 ### 🧩 DSA & Problem Solving
 
-> I consistently practice Data Structures & Algorithms on LeetCode — focusing on Arrays, Strings, Linked Lists, Trees, and Dynamic Programming.
+> I consistently practice Data Structures & Algorithms on LeetCode — solutions saved in **[Java_DSA_Solution](https://github.com/shubhangickore/Java_DSA_Solution)** ☕
 
 <p align="center">
   <a href="https://leetcode.com/u/shubhangi_kore/" target="_blank">
@@ -57,6 +57,9 @@
 <p align="center">
   <a href="https://leetcode.com/u/shubhangi_kore/">
     <img src="https://img.shields.io/badge/LeetCode-shubhangi__kore-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="https://github.com/shubhangickore/Java_DSA_Solution">
+    <img src="https://img.shields.io/badge/DSA_Repo-Java_Solutions-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   </a>
 </p>
 
@@ -87,6 +90,16 @@
 
 ---
 
+#### ☕ Java DSA Solutions
+> Java • LeetCode • Data Structures & Algorithms
+
+- Organized solutions across Arrays, Strings, LinkedLists, Trees and more
+- Each solution includes time & space complexity notes
+- Actively growing with consistent daily practice
+- 🔗 [View Repository](https://github.com/shubhangickore/Java_DSA_Solution)
+
+---
+
 ### 📜 Certifications
 
 | Certification | Issuer |
@@ -114,7 +127,7 @@
 ### 📬 Connect With Me
 
 <p align="center">
-  <a href="mailto:koreshubhangi291@gmail.com">
+  <a href="/cdn-cgi/l/email-protection#98f3f7eafdebf0edfaf0f9f6fff1aaa1a9d8fff5f9f1f4b6fbf7f5">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/shubhangi-kore" target="_blank">
@@ -134,4 +147,4 @@
   <img src="https://komarev.com/ghpvc/?username=shubhangickore&label=Profile+Views&color=0F62FE&style=flat" alt="profile views" />
 </p>
 
-<p align="center"><i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i></p>
+<p align="center"><i>"Code is like humor. When you have
